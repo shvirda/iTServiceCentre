@@ -33,7 +33,7 @@
 
 ### 1. Клонировать/загрузить проект
 ```bash
-cd K:\PROJECTs-FACTORY\serviseCentr\promoserviceV0002
+cd K:\путь\promoserviceV0002
 ```
 
 ### 2. Установить зависимости
